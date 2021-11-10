@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sam-dev75
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...web developement 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... startup nation 
+- 🌱 I’m currently learning ... web developement 
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me, mail: ssaitsamir@gmail.com
 
 <!---
